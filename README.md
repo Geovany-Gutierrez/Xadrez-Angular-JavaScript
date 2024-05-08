@@ -30,7 +30,4 @@ This is a simple chess game developed using Angular and JavaScript. It leverages
 6. Continue making moves until checkmate or stalemate occurs.
 
 ## Credits
-This game was developed by [Your Name] and is inspired by the tutorial provided in [this video](https://youtu.be/fJIsqZmQVZQ).
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+This game was developed by me and is inspired by the tutorial provided in [this video](https://youtu.be/fJIsqZmQVZQ).
